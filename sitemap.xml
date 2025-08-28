@@ -8,95 +8,455 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/properties/</loc>
+    <loc>https://www.loretobayrealestate.com/properties</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/our-sales-history/</loc>
+    <loc>https://www.loretobayrealestate.com/our-sales-history</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/videos-of-properties/</loc>
+    <loc>https://www.loretobayrealestate.com/videos-of-properties</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- Projects -->
   <url>
-    <loc>https://www.loretobayrealestate.com/vista-mar-oceanview/</loc>
+    <loc>https://www.loretobayrealestate.com/vista-mar-oceanview</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/sunrise-villas-new-homes-in-loreto-baja-california-sur/</loc>
+    <loc>https://www.loretobayrealestate.com/sunrise-villas-new-homes-in-loreto-baja-california-sur</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/nopolo-hills/</loc>
+    <loc>https://www.loretobayrealestate.com/nopolo-hills</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/nopolo-hills-condo-tower/</loc>
+    <loc>https://www.loretobayrealestate.com/nopolo-hills-condo-tower</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/punta-nopolo-tower-4/</loc>
+    <loc>https://www.loretobayrealestate.com/punta-nopolo-tower-4</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/alta-baja-coastal-living/</loc>
+    <loc>https://www.loretobayrealestate.com/alta-baja-coastal-living</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.7</priority>
   </url>
 
   <!-- About Pages -->
   <url>
-    <loc>https://www.loretobayrealestate.com/our-agents/</loc>
+    <loc>https://www.loretobayrealestate.com/our-agents</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/our-company/</loc>
+    <loc>https://www.loretobayrealestate.com/our-company</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/privacy-policy/</loc>
+    <loc>https://www.loretobayrealestate.com/privacy-policy</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/our-location/</loc>
+    <loc>https://www.loretobayrealestate.com/our-location</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/relocation-or-lifestyle/</loc>
+    <loc>https://www.loretobayrealestate.com/relocation-or-lifestyle</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.5</priority>
   </url>
 
   <!-- Contact & Blog -->
   <url>
-    <loc>https://www.loretobayrealestate.com/contact/</loc>
+    <loc>https://www.loretobayrealestate.com/contact</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.loretobayrealestate.com/blog/</loc>
+    <loc>https://www.loretobayrealestate.com/blog</loc>
+    <lastmod>2025-08-25</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Property Listings Examples -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-416-2-bedroom-unit</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/agua-viva-76-casa-encantada-3-bedroom</loc>
+    <lastmod>2025-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- keep adding all property detail pages here -->
+
+</urlset>
+<!-- Individual Listings -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/loreto-bay-av076-casa-encantada</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-condominium-tower-4-golf-course-and-marina</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-custom-lots-for-sale-on-the-malecon</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-affordable-residential-lots</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/nopolo-casa-maria-a-fabulous-custom-home-in-nopolo/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/av225-terrific-building-lot-on-the-paseo-in-agua-viva-neighborhood</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-3-unit-313</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-3-unit-413</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/georgeous-beach-property-south-of-agua-verde</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/reserved-punta-nopolo-building-4-unit-518-4-bedroom-penthouse-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-517-2-bedroom-penthouse-unit/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-516-2-bedroom-penthouse-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-515-4-bedroom-penthouse-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-418-4-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-417-2-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-416-2-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-415-4-bedroom-unit/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-318-4-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-317-2-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-315-4-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-218-4-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-217-2-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-216-2-bedroom-unit/loc>
+     <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/punta-nopolo-building-4-unit-215-4-bedroom-unit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/oversized-garages-at-nopolo-hills</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-front-row-lot-1</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-front-row-lot-2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-front-row-lot-3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-front-row-lot-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-front-row-lot-5/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-second-row-lot-12</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-second-row-lot-13/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-second-row-lot-14</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-second-row-lot-15</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-second-row-lot-16</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-third-row-lot-23</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-third-row-lot-24</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-third-row-lot-25</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-third-row-lot-26/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-third-row-lot-27</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-fourth-row-lot-34</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-fourth-row-lot-35</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-fourth-row-lot-36</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-fourth-row-lot-37</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-fourth-row-lot-38/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/alta-baja-fourth-row-lot-39</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-1/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-5</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-6</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-7</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-8/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-10</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/vista-mar-lot-11</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-1/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-3</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-5</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-6</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-7</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-8/loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-9</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+ <url>
+    <loc>https://www.loretobayrealestate.com/properties/sunrise-villas-lot-10</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact & Blog -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/contact</loc>
+    <lastmod>2025-08-25</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/blog</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.5</priority>
   </url>
 
   <!-- Market Intelligence -->
   <url>
-    <loc>https://www.loretobayrealestate.com/interactive-property-values/</loc>
+    <loc>https://www.loretobayrealestate.com/interactive-property-values</loc>
     <lastmod>2025-08-25</lastmod>
     <priority>0.9</priority>
   </url>
