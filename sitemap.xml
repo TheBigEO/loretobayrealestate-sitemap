@@ -94,14 +94,8 @@
     <priority>0.5</priority>
   </url>
 
-<!-- Market Intelligence -->
-  <url>
-    <loc>https://www.loretobayrealestate.com/interactive-property-values</loc>
-    <lastmod>2025-08-25</lastmod>
-    <priority>0.9</priority>
-  </url>
-
 </urlset>
+
 
 
 
