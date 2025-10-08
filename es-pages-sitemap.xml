@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Inicio y páginas principales -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/properties</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/our-sales-history</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/videos-of-properties</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Proyectos -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/vista-mar-oceanview</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/sunrise-villas-new-homes-in-loreto-baja-california-sur</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/nopolo-hills</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/nopolo-hills-condo-tower</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/punta-nopolo-tower-4</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/alta-baja-coastal-living</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sobre nosotros -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/our-agents</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/our-company</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/privacy-policy</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/our-location</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/relocation-or-lifestyle</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Contacto y blog -->
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/contact</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.loretobayrealestate.com/es/blog</loc>
+    <lastmod>2025-10-08</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
