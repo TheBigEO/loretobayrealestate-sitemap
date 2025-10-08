@@ -2,30 +2,31 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- English Sitemaps -->
   <sitemap>
-    <loc>https://erickolson.github.io/pages-sitemap.xml</loc>
+    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/pages-sitemap.xml</loc>
     <lastmod>2025-10-08</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://erickolson.github.io/properties-sitemap.xml</loc>
+    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/properties-sitemap.xml</loc>
     <lastmod>2025-10-08</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://erickolson.github.io/projects-sitemap.xml</loc>
+    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/projects-sitemap.xml</loc>
     <lastmod>2025-10-08</lastmod>
   </sitemap>
 
   <!-- Spanish Sitemaps -->
   <sitemap>
-    <loc>https://erickolson.github.io/es-pages-sitemap.xml</loc>
+    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/es-pages-sitemap.xml</loc>
     <lastmod>2025-10-08</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://erickolson.github.io/es-properties-sitemap.xml</loc>
+    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/es-properties-sitemap.xml</loc>
     <lastmod>2025-10-08</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://erickolson.github.io/es-projects-sitemap.xml</loc>
+    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/es-projects-sitemap.xml</loc>
     <lastmod>2025-10-08</lastmod>
   </sitemap>
 </sitemapindex>
+
 
