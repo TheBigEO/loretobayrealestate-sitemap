@@ -3,31 +3,34 @@
 
   <!-- English Sitemaps -->
   <sitemap>
-    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/pages-sitemap.xml</loc>
-    <lastmod>2025-10-08</lastmod>
+    <loc>https://thebigeo.github.io/loretobayrealestate-sitemap/pages-sitemap-en.xml</loc>
+    <lastmod>2025-10-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/properties-sitemap.xml</loc>
-    <lastmod>2025-10-08</lastmod>
+    <loc>https://thebigeo.github.io/loretobayrealestate-sitemap/properties-sitemap-en.xml</loc>
+    <lastmod>2025-10-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/projects-sitemap.xml</loc>
-    <lastmod>2025-10-08</lastmod>
+    <loc>https://thebigeo.github.io/loretobayrealestate-sitemap/projects-sitemap-en.xml</loc>
+    <lastmod>2025-10-10</lastmod>
   </sitemap>
 
   <!-- Spanish Sitemaps -->
   <sitemap>
-    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/pages-sitemap-es.xml</loc>
-    <lastmod>2025-10-08</lastmod>
+    <loc>https://thebigeo.github.io/loretobayrealestate-sitemap/pages-sitemap-es.xml</loc>
+    <lastmod>2025-10-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/properties-sitemap-es.xml</loc>
-    <lastmod>2025-10-08</lastmod>
+    <loc>https://thebigeo.github.io/loretobayrealestate-sitemap/properties-sitemap-es.xml</loc>
+    <lastmod>2025-10-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://thebigEO.github.io/loretobayrealestate-sitemap/projects-sitemap-es.xml</loc>
-    <lastmod>2025-10-08</lastmod>
+    <loc>https://thebigeo.github.io/loretobayrealestate-sitemap/projects-sitemap-es.xml</loc>
+    <lastmod>2025-10-10</lastmod>
   </sitemap>
+
+</sitemapindex>
+
 
 </sitemapindex>
 
