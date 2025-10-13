@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- ==========================
-       English Sitemaps
-  =========================== -->
+
+  <!-- English Sitemaps -->
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/pages-sitemap-en.xml</loc>
     <lastmod>2025-10-13</lastmod>
@@ -16,9 +15,7 @@
     <lastmod>2025-10-13</lastmod>
   </sitemap>
 
-  <!-- ==========================
-       Spanish Sitemaps
-  =========================== -->
+  <!-- Spanish Sitemaps -->
   <sitemap>
     <loc>https://sitemap.loretobayrealestate.com/pages-sitemap-es.xml</loc>
     <lastmod>2025-10-13</lastmod>
@@ -31,8 +28,6 @@
     <loc>https://sitemap.loretobayrealestate.com/projects-sitemap-es.xml</loc>
     <lastmod>2025-10-13</lastmod>
   </sitemap>
-</sitemapindex>
-
 
 </sitemapindex>
 
